@@ -7,4 +7,5 @@ public class HelloDao {
         System.out.println("hello  dev");
     }
     public  void m3(){}
+    public void b(){}
 }
